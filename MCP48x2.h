@@ -4,6 +4,8 @@
     Licensed under GPL3, no warrenty what so ever and the code is "as-is".
     version 0.1
 
+    this library is depentant on SPI
+
 */
 
 #ifndef MCP48x2_h
